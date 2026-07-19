@@ -1,2 +1,11 @@
 # tafreshiirancid
-Iran-wide Caller ID normalization module for Issabel/Asterisk
+
+Iran-wide Caller ID normalization module for Issabel/Asterisk.
+
+## Features
+- Province-wide caller ID normalization
+- Install-time province code setup
+- Bash-based processing for simplicity
+
+## Status
+Initial repository setup
